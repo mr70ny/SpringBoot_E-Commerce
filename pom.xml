@@ -5,8 +5,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.hackerrank.eshopping.product.dashboard</groupId>
-    <artifactId>hackerrank-app</artifactId>
+    <groupId>com.eshopping.product.dashboard</groupId>
+    <artifactId>SpringBoot_E-Commerce</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 

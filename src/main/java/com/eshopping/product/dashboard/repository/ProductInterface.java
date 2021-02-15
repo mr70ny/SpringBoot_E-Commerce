@@ -1,6 +1,6 @@
-package com.hackerrank.eshopping.product.dashboard.repository;
+package com.eshopping.product.dashboard.repository;
 
-import com.hackerrank.eshopping.product.dashboard.model.Product;
+import com.eshopping.product.dashboard.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

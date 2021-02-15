@@ -1,4 +1,4 @@
-package com.hackerrank.eshopping.product.dashboard.model;
+package com.eshopping.product.dashboard.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;

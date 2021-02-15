@@ -1,15 +1,13 @@
-package com.hackerrank.eshopping.product.dashboard.controller;
+package com.eshopping.product.dashboard.controller;
 
-import com.hackerrank.eshopping.product.dashboard.model.Product;
-import com.hackerrank.eshopping.product.dashboard.repository.ProductInterface;
+import com.eshopping.product.dashboard.model.Product;
+import com.eshopping.product.dashboard.repository.ProductInterface;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.math.BigDecimal;
 import java.net.URLDecoder;
-import java.net.URLEncoder;
-import java.util.Comparator;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
